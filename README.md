@@ -29,20 +29,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=default" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default" />
-</p>
-
-> ⚠️ Recuerda reemplazar `TU_USUARIO` por tu nombre de usuario real de GitHub en los enlaces de arriba.
-
----
 
 ### 🚀 Proyectos destacados
 
