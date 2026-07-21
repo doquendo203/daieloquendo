@@ -29,14 +29,6 @@
 
 ---
 
-
-### 🚀 Proyectos destacados
-
-- 🔹 *(Agrega aquí el nombre y enlace de tus proyectos, por ejemplo:)*
-- **[Nombre del proyecto](https://github.com/TU_USUARIO/nombre-repo)** — breve descripción de qué hace y qué tecnologías usaste.
-
----
-
 ### 📫 Contacto
 
 <p align="left">
