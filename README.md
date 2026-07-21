@@ -46,7 +46,7 @@
   </a>
   <a href="https://wa.me/573028384939">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    <p> 3028384939 </p>
+    <p> +57 3028384939 </p>
   </a>
 </p>
 
