@@ -42,9 +42,11 @@
 <p align="left">
   <a href="mailto:danieloquenser@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <p> danieloquenser@gmail.com </p>
   </a>
   <a href="https://wa.me/573028384939">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <p> 3028384939 </p>
   </a>
 </p>
 
